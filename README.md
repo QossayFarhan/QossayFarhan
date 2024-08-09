@@ -1,3 +1,6 @@
+![Azure](![image](https://github.com/user-attachments/assets/b499bce4-8021-4e25-9027-582acd413571)
+)
+
 # About Me
 
 I find fulfillment in influencing how people work and live through innovative software solutions. This passion drives me to seek opportunities within creative and forward-thinking teams that are shaping the future. I hold a degree in Software Engineering from the University Malaysia of Computer Science and Engineering, located in the heart of Cyberjaya, Malaysia’s tech hub. My career has taken me to global cities such as Kuala Lumpur, Singapore, and currently, Dubai.
