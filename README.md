@@ -1,16 +1,29 @@
-## Hi there 👋
+# About Me
 
-<!--
-**QossayFarhan/QossayFarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I find fulfillment in influencing how people work and live through innovative software solutions. This passion drives me to seek opportunities within creative and forward-thinking teams that are shaping the future. I hold a degree in Software Engineering from the University Malaysia of Computer Science and Engineering, located in the heart of Cyberjaya, Malaysia’s tech hub. My career has taken me to global cities such as Kuala Lumpur, Singapore, and currently, Dubai.
 
-Here are some ideas to get you started:
+Over the past 2+ years, I have developed a strong expertise through various roles. I began as a Backend Engineer Intern at CoolRiots, where I gained comprehensive experience in web and API development, with a focus on creating microservice architecture applications. I then advanced to a DevOps and Cloud Engineer position at CoolRiots, where I utilized my knowledge in Azure and IBM Cloud to establish end-to-end DevOps processes for multiple projects. My responsibilities included:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Managing code repositories
+- Creating CI/CD pipelines
+- Packaging and containerizing services with Docker
+- Provisioning and managing cloud resources
+- Cloud cost optimization
+- Deployment management
+- Advanced monitoring with Grafana, Loki, and Prometheus
+- Managing and administering Kubernetes clusters using CLI, YAML files, and Terraform (including deployments, networking, and authorization)
+
+Beyond my DevOps role, I contributed to the development of an advanced multi-tenant AI-powered business execution platform. My work involved leveraging:
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Document processing
+- Code generation
+
+I maintained high-performance standards and ensured security with solutions like HashiCorp Vault.
+
+Currently, I am working at Takaful Emarat, the market-leading individual insurance provider in the UAE. My focus is on revolutionizing the insurance industry through:
+
+- Enhanced business automation solutions
+- AI-driven customer engagement
+- Uniquely personalized customer journeys
