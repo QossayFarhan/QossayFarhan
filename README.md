@@ -1,8 +1,8 @@
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/b499bce4-8021-4e25-9027-582acd413571" alt="Azure" width="200"/></td>
-    <td><img src="https://www.google.com/imgres?q=azure%20ai%20fundamentals%20certs%20badges&imgurl=https%3A%2F%2Fimages.credly.com%2Fimages%2F4136ced8-75d5-4afb-8677-40b6236e2672%2Fazure-ai-fundamentals-600x600.png&imgrefurl=https%3A%2F%2Fwww.credly.com%2Fbadges%2F25884c4e-ee0b-4fc4-a976-f9c75c108212%2Fpublic_url&docid=A5cPF89xpa9nXM&tbnid=UuKVN98dSbVQfM&vet=12ahUKEwi8xKaa7uiHAxVSgP0HHQbmMv0QM3oECBwQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwi8xKaa7uiHAxVSgP0HHQbmMv0QM3oECBwQAA" alt="Azure" width="200"/></td>
     <td><img src="https://www.google.com/imgres?q=azure%20data%20fundamentals%20certs%20badges&imgurl=https%3A%2F%2Fimages.credly.com%2Fimages%2F70eb1e3f-d4de-4377-a062-b20fb29594ea%2Fazure-data-fundamentals-600x600.png&imgrefurl=https%3A%2F%2Fwww.credly.com%2Forg%2Fmicrosoft-certification%2Fbadge%2Fmicrosoft-certified-azure-data-fundamentals&docid=-DjB5ZfIZyXIMM&tbnid=WAAXZ6EkzzUgdM&vet=12ahUKEwj-iPHa7uiHAxU4RPEDHVvVJLAQM3oECBYQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwj-iPHa7uiHAxU4RPEDHVvVJLAQM3oECBYQAA" alt="Azure" width="200"/></td>
+    <td><img src="https://www.google.com/imgres?q=azure%20data%20fundamentals%20certs%20badges&imgurl=https%3A%2F%2Fimages.credly.com%2Fimages%2F4136ced8-75d5-4afb-8677-40b6236e2672%2Fazure-ai-fundamentals-600x600.png&imgrefurl=https%3A%2F%2Fwww.credly.com%2Forg%2Fmicrosoft-certification%2Fbadge%2Fmicrosoft-certified-azure-ai-fundamentals&docid=-W9vFIJA_qXrnM&tbnid=UuKVN98dSbVQfM&vet=12ahUKEwj-iPHa7uiHAxU4RPEDHVvVJLAQM3oECB0QAA..i&w=600&h=600&hcb=2&ved=2ahUKEwj-iPHa7uiHAxU4RPEDHVvVJLAQM3oECB0QAA" alt="Azure" width="200"/></td>
   </tr>
 </table>
 
