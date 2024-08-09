@@ -1,4 +1,4 @@
-![Azure](![image](https://github.com/user-attachments/assets/b499bce4-8021-4e25-9027-582acd413571)
+![Azure](https://github.com/user-attachments/assets/b499bce4-8021-4e25-9027-582acd413571)
 )
 
 # About Me
