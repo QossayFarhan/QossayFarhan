@@ -2,7 +2,7 @@
   <tr>
     <td><img src="https://github.com/user-attachments/assets/b499bce4-8021-4e25-9027-582acd413571" alt="Azure" width="200"/></td>
     <td><img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Azure" width="200"/></td>
-    <td><img src="" alt="Azure" width="200"/></td>
+    <td><img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure" width="200"/></td>
   </tr>
 </table>
 
