@@ -43,3 +43,5 @@ Currently, I am working at Takaful Emarat, the market-leading individual insuran
 - Enhanced business automation solutions
 - AI-driven customer engagement
 - Uniquely personalized customer journeys
+
+Not to forget my role as the technical partner at HorseHub.asia (home.horsehub.asia) which is an online market place for everything related to horses in Southeast Asia. at this role I Continuously specify and adapt the technical requirements of the business and lead the development efforts of the business digital platform.
