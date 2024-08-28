@@ -6,7 +6,8 @@
     <td><img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure" width="180"/></td>
   </tr>
   <tr>
-    <td><img src="https://images.credly.com/size/680x680/images/53832db2-e657-4304-83b2-ac782fe4614d/image.png" alt="Azure" width="180"/></td>  
+    <td><img src="https://images.credly.com/size/680x680/images/53832db2-e657-4304-83b2-ac782fe4614d/image.png" alt="IBM" width="180"/></td>
+    <td><img src="https://images.credly.com/size/680x680/images/122ac123-afc0-4660-b971-436d9534aaff/image.png" alt="IBM" width="180"/></td>
   </tr>
 </table>
 
