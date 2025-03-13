@@ -40,10 +40,14 @@ Beyond my DevOps role, I contributed to the development of an advanced multi-ten
 
 I maintained high-performance standards and ensured security with solutions like HashiCorp Vault.
 
-Currently, I am working at Takaful Emarat, the market-leading individual insurance provider in the UAE. My focus is on revolutionizing the insurance industry through:
+Currently, At Takaful Emarat, I helped driving the company’s digital transformation by leveraging AI and cloud technologies to enhance business processes and customer experiences. I evaluated AI providers, created POCs to demonstrate AI’s value, and integrated AI solutions into operations. Additionally, I led Salesforce integrations for Service Cloud, Sales Cloud, and CRM, using custom flows and Apex classes to streamline workflows. My work improved efficiency, customer engagement, and positioned Takaful as a leader in AI adoption.
 
-- Enhanced business automation solutions
-- AI-driven customer engagement
-- Uniquely personalized customer journeys
+Key Achievements:
+
+- AI Evaluation and Adoption: Evaluated AI providers, created POCs, and integrated Azure AI services (OCR, Document Intelligence, OpenAI LLMs) to automate processes.
+- Document Processing Solution: Built an AI-powered solution that reduced document processing time by 50%.
+- AI Chatbot: Developed a chatbot using LLMs, reducing customer support TAT by 70%.
+- Salesforce Integration: Configured Service Cloud, Sales Cloud, and CRM using custom flows and Apex classes, improving workflow automation.
+- Cloud Deployment: Deployed applications using Azure App Services and Container Apps, reducing time-to-market by 25%.
 
 Not to forget my role as the technical partner at HorseHub.asia (home.horsehub.asia) which is an online market place for everything related to horses in Southeast Asia. at this role I Continuously specify and adapt the technical requirements of the business and lead the development efforts of the business digital platform.
