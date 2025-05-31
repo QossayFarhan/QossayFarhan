@@ -9,6 +9,7 @@
     <td><img src="https://images.credly.com/size/680x680/images/53832db2-e657-4304-83b2-ac782fe4614d/image.png" alt="IBM" width="180"/></td>
     <td><img src="https://images.credly.com/size/680x680/images/122ac123-afc0-4660-b971-436d9534aaff/image.png" alt="IBM" width="180"/></td>
     <td><img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" alt="IBM" width="180"/></td>
+    <td><img src="https://firebrand.training/media/oc0jnwku/microsoft-azure-developer-associate-official-training-certification.png" alt="IBM" width="180"/></td>
 
   </tr>
 </table>
