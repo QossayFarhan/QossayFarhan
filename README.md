@@ -1,6 +1,10 @@
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b499bce4-8021-4e25-9027-582acd413571" alt="Azure" width="180"/></td>
+    <td>
+      <a href="https://www.credly.com/badges/ea5138d3-5bca-4d05-bf9b-f2be4af0561c" target="_blank">
+        <img src="https://github.com/user-attachments/assets/b499bce4-8021-4e25-9027-582acd413571" alt="Azure" width="180"/>
+      </a>
+    </td>
     <td><img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Azure" width="180"/></td>
     <td><img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure" width="180"/></td>
     <td><img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure" width="180"/></td>
