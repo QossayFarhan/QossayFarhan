@@ -23,22 +23,22 @@
   </tr>
   <tr>
     <td>
-      <a href="https://www.credly.com/badges/ea5138d3-5bca-4d05-bf9b-f2be4af0561c" target="_blank">
+      <a href="https://www.credly.com/badges/dcea2a9d-9ac2-4027-8f08-2ed31a34bc2d" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/53832db2-e657-4304-83b2-ac782fe4614d/image.png" alt="IBM" width="180"/>
       </a>    
     </td>
     <td>
-      <a href="https://www.credly.com/badges/ea5138d3-5bca-4d05-bf9b-f2be4af0561c" target="_blank">
+      <a href="https://www.credly.com/badges/b3cdb9b0-aca9-4a19-9ebd-a6775fc49dad" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/122ac123-afc0-4660-b971-436d9534aaff/image.png" alt="IBM" width="180"/>
       </a> 
     </td>
     <td>
-      <a href="https://www.credly.com/badges/ea5138d3-5bca-4d05-bf9b-f2be4af0561c" target="_blank"><a href="https://www.credly.com/badges/ea5138d3-5bca-4d05-bf9b-f2be4af0561c" target="_blank">
+      <a href="https://learn.microsoft.com/en-us/users/qossayabuamriya-5364/credentials/74ee279a0e1ee2ad" target="_blank">
         <img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" alt="IBM" width="180"/>
       </a>   
     </td>
     <td>
-      <a href="https://www.credly.com/badges/ea5138d3-5bca-4d05-bf9b-f2be4af0561c" target="_blank">
+      <a href="https://learn.microsoft.com/en-us/users/qossayabuamriya-5364/credentials/bf8491dd0e5e6ce0" target="_blank">
         <img src="https://firebrand.training/media/oc0jnwku/microsoft-azure-developer-associate-official-training-certification.png" alt="IBM" width="180"/>
       </a> 
     </td>
