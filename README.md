@@ -5,16 +5,43 @@
         <img src="https://github.com/user-attachments/assets/b499bce4-8021-4e25-9027-582acd413571" alt="Azure" width="180"/>
       </a>
     </td>
-    <td><img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Azure" width="180"/></td>
-    <td><img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure" width="180"/></td>
-    <td><img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure" width="180"/></td>
+    <td>
+      <a href="https://www.credly.com/badges/268858f4-a15c-4ac7-92ce-07af2c1426b0" target="_blank">
+        <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Azure" width="180"/>
+      </a>    
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/758f9faf-d233-4d95-90b2-a263b8409ce0" target="_blank">
+        <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure" width="180"/>
+      </a>   
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/ef621612-89c0-4fb3-92d7-efd5a6d510fd" target="_blank">
+        <img src="https://media.licdn.com/dms/image/v2/D4D12AQHd0Ni10Nwd_Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1679659677433?e=2147483647&v=beta&t=7GiLVMnUBBNXozjuYwn49-3Jt85TVxSxChOw_p1qIr8" alt="Azure" width="180"/>
+      </a>    
+    </td>
   </tr>
   <tr>
-    <td><img src="https://images.credly.com/size/680x680/images/53832db2-e657-4304-83b2-ac782fe4614d/image.png" alt="IBM" width="180"/></td>
-    <td><img src="https://images.credly.com/size/680x680/images/122ac123-afc0-4660-b971-436d9534aaff/image.png" alt="IBM" width="180"/></td>
-    <td><img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" alt="IBM" width="180"/></td>
-    <td><img src="https://firebrand.training/media/oc0jnwku/microsoft-azure-developer-associate-official-training-certification.png" alt="IBM" width="180"/></td>
-
+    <td>
+      <a href="https://www.credly.com/badges/ea5138d3-5bca-4d05-bf9b-f2be4af0561c" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/53832db2-e657-4304-83b2-ac782fe4614d/image.png" alt="IBM" width="180"/>
+      </a>    
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/ea5138d3-5bca-4d05-bf9b-f2be4af0561c" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/122ac123-afc0-4660-b971-436d9534aaff/image.png" alt="IBM" width="180"/>
+      </a> 
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/ea5138d3-5bca-4d05-bf9b-f2be4af0561c" target="_blank"><a href="https://www.credly.com/badges/ea5138d3-5bca-4d05-bf9b-f2be4af0561c" target="_blank">
+        <img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" alt="IBM" width="180"/>
+      </a>   
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/ea5138d3-5bca-4d05-bf9b-f2be4af0561c" target="_blank">
+        <img src="https://firebrand.training/media/oc0jnwku/microsoft-azure-developer-associate-official-training-certification.png" alt="IBM" width="180"/>
+      </a> 
+    </td>
   </tr>
 </table>
 
