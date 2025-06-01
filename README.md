@@ -45,7 +45,7 @@
   </tr>
 </table>
 
-Credly Account: https://www.credly.com/users/qossay-abuamriya
+(Click the padge to see the actual cert)
 
 
 # About Me
