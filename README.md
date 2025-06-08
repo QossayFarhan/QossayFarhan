@@ -48,38 +48,69 @@
 (Click the padge to see the actual cert)
 
 
-# About Me
+# 👋 About Me
 
-I find fulfillment in influencing how people work and live through innovative software solutions. This passion drives me to seek opportunities within creative and forward-thinking teams that are shaping the future. I hold a degree in Software Engineering from the University Malaysia of Computer Science and Engineering, located in the heart of Cyberjaya, Malaysia’s tech hub. My career has taken me to global cities such as Kuala Lumpur, Singapore, and currently, Dubai.
+I’m passionate about shaping how people work and live through innovative software solutions. This drive fuels my ambition to join forward-thinking teams building the future of technology.  
 
-Over the past 2+ years, I have developed a strong expertise through various roles. I began as a Backend Engineer Intern at CoolRiots, where I gained comprehensive experience in web and API development, with a focus on creating microservice architecture applications. I then advanced to a DevOps and Cloud Engineer position at CoolRiots, where I utilized my knowledge in Azure and IBM Cloud to establish end-to-end DevOps processes for multiple projects. My responsibilities included:
+I hold a degree in **Software Engineering** from the *University Malaysia of Computer Science & Engineering (UNIMY)*, located in Cyberjaya — Malaysia’s tech hub. My career has taken me across global cities including **Kuala Lumpur**, **Singapore**, and currently **Dubai**.
 
-- Managing code repositories
-- Creating CI/CD pipelines
-- Packaging and containerizing services with Docker
-- Provisioning and managing cloud resources
-- Cloud cost optimization
-- Deployment management
-- Advanced monitoring with Grafana, Loki, and Prometheus
-- Managing and administering Kubernetes clusters using CLI, YAML files, and Terraform (including deployments, networking, and authorization)
+---
 
-Beyond my DevOps role, I contributed to the development of an advanced multi-tenant AI-powered business execution platform. My work involved leveraging:
+## 🚀 Professional Experience
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Document processing
-- Code generation
+### 🔹 CoolRiots — Backend Intern → Cloud & DevOps Engineer  
+Over 2 years, I gained hands-on expertise across the full development lifecycle:
 
-I maintained high-performance standards and ensured security with solutions like HashiCorp Vault.
+- **Backend Development**: Built microservice-based web APIs.
+- **DevOps & Cloud Engineering**:
+  - Managed Git repositories and built CI/CD pipelines.
+  - Containerized services with Docker.
+  - Provisioned and optimized cloud infrastructure on **Azure** and **IBM Cloud**.
+  - Deployed, secured, and maintained **Kubernetes clusters** using CLI, YAML, and Terraform.
+  - Enabled robust **monitoring and logging** with Grafana, Loki, and Prometheus.
+  - Secured applications using **HashiCorp Vault**.
 
-Currently, At Takaful Emarat, I helped driving the company’s digital transformation by leveraging AI and cloud technologies to enhance business processes and customer experiences. I evaluated AI providers, created POCs to demonstrate AI’s value, and integrated AI solutions into operations. Additionally, I led Salesforce integrations for Service Cloud, Sales Cloud, and CRM, using custom flows and Apex classes to streamline workflows. My work improved efficiency, customer engagement, and positioned Takaful as a leader in AI adoption.
+Also contributed to building a **multi-tenant, AI-powered business execution platform** using:
 
-Key Achievements:
+- Large Language Models (LLMs)  
+- Retrieval-Augmented Generation (RAG)  
+- Document processing & code generation  
 
-- AI Evaluation and Adoption: Evaluated AI providers, created POCs, and integrated Azure AI services (OCR, Document Intelligence, OpenAI LLMs) to automate processes.
-- Document Processing Solution: Built an AI-powered solution that reduced document processing time by 50%.
-- AI Chatbot: Developed a chatbot using LLMs, reducing customer support TAT by 70%.
-- Salesforce Integration: Configured Service Cloud, Sales Cloud, and CRM using custom flows and Apex classes, improving workflow automation.
-- Cloud Deployment: Deployed applications using Azure App Services and Container Apps, reducing time-to-market by 25%.
+---
 
-Not to forget my role as the technical partner at HorseHub.asia (home.horsehub.asia) which is an online market place for everything related to horses in Southeast Asia. at this role I Continuously specify and adapt the technical requirements of the business and lead the development efforts of the business digital platform.
+### 🔹 Takaful Emarat — AI & Cloud Solutions Engineer  
+At Takaful Emarat, I helped drive digital transformation through AI and cloud integrations to streamline business operations and improve customer experiences.
+
+- **AI Enablement**: Evaluated AI platforms, built POCs, and integrated solutions using:
+  - Azure OCR & Document Intelligence  
+  - Azure OpenAI (LLMs)  
+- **Customer Support Automation**: Developed an AI chatbot using LLMs, reducing TAT by 70%.  
+- **Salesforce Integrations**: Customized **Service Cloud**, **Sales Cloud**, and **CRM** with Apex and Flows to automate workflows.  
+- **Cloud Deployments**: Leveraged **Azure App Services** and **Container Apps** to reduce time-to-market by 25%.
+
+#### ⭐ Key Achievements:
+- 🚀 **50% faster** document processing with an AI-powered solution  
+- 🤖 **70% reduction** in customer support time via AI chatbot  
+- ⚙️ Automated Salesforce workflows using Apex & custom Flows  
+- ☁️ Scalable app deployments with optimized cloud infrastructure  
+
+---
+
+### 🔹 HorseHub.asia — Technical Partner  
+I serve as the **technical lead** at [HorseHub.asia](https://home.horsehub.asia), a digital marketplace for everything equine in Southeast Asia.
+
+- Define and adapt technical business requirements  
+- Lead the architecture and development of the digital platform  
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Cloud**: Azure, IBM Cloud  
+**DevOps**: GitHub Actions, Docker, Terraform, Helm  
+**AI/ML**: Azure AI, OpenAI, LLMs, RAG  
+**Kubernetes**: AKS, IKS, YAML, CLI  
+**Monitoring**: Prometheus, Grafana, Loki  
+**CRM**: Salesforce (Apex, Flows, Service/Sales Cloud)  
+**Security**: HashiCorp Vault  
+**Languages**: Python, Bash, JavaScript, SQL  
