@@ -54,6 +54,18 @@ I’m passionate about shaping how people work and live through innovative softw
 
 I hold a degree in **Software Engineering** from the *University Malaysia of Computer Science & Engineering (UNIMY)*, located in Cyberjaya — Malaysia’s tech hub. My career has taken me across global cities including **Kuala Lumpur**, **Singapore**, and currently **Dubai**.
 
+
+---
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+</p>
+
+
 ---
 
 ## 🚀 Professional Experience
@@ -115,14 +127,3 @@ I serve as the **technical lead** at [HorseHub.asia](https://home.horsehub.asia)
 **Security**: HashiCorp Vault  
 **Languages**: Python, Bash, JavaScript, SQL  
 
----
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-</p>
-
----
